@@ -1,4 +1,4 @@
-📊 NewSalesOpportunities – Pivot Table Sales Analysis
+📊Maven Electronics – Pivot Table Sales Analysis
 
 🧩 Project Overview
 
